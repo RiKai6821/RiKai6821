@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RiKai</h1>
-<h3 align="center">Computer Science MS | Aspiring Embedded Engineer | STM32 / FreeRTOS</h3>
+<h3 align="center">Computer Science MS | Embedded Systems & AI Agent Dev | STM32 · FreeRTOS · LLM</h3>
 
 - 🔭 我目前在做 **嵌入式 / RTOS 相关的项目**
 - 🌱 我正在学习 **STM32, FreeRTOS, Linux 驱动**
@@ -26,6 +26,12 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 ---
 
