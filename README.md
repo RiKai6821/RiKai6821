@@ -1,28 +1,20 @@
 <h1 align="center">Hi 👋, I'm RiKai</h1>
-<p align="center">
-  <b>Computer Science MS @ Zhejiang University of Technology</b><br/>
-  <b>AI Agent & LLM Engineering</b> · Multi-Agent · RAG · LLMOps
-</p>
-
+<h3 align="center">Computer Science MS | AI Agent & LLM Engineering | Multi-Agent · RAG · LLMOps</h3>
 
 🤖 我目前在做 AI Agent / 多智能体 / RAG 相关项目
 🌱 我正在深入 LangChain / LangGraph、LlamaIndex、RAG 检索优化、LLM 工程化（评估 · 可观测 · 部署）
 🔗 也能打通 软硬件：用 ESP32 把 AI Agent 接到物理设备，做端云协同
 💬 关于 AI Agent / RAG / LLM 应用 / Python 的问题都可以问我
 📫 联系我：通过 GitHub Issues 或主页邮箱
----
+
 
 🚀 Featured Projects
 🏭 Manufacturing Multi-Agent System · Multi-Agent + Agentic RAG
-
 面向半导体设备诊断的多智能体系统：1 协调 + 6 执行 Agent 协作完成「数据查询 → 知识检索 → 根因诊断 → 质量评审 → 生成工单」全闭环。
-
-Function Calling  手写 ReAct  FAISS / Milvus / LlamaIndex  三层记忆  双层防幻觉  模型路由 (响应时效 ↓28%)  FastAPI  Docker / K8s
+Function Calling 手写 ReAct FAISS / Milvus / LlamaIndex 三层记忆 双层防幻觉 模型路由 (↓28%) FastAPI Docker / K8s
 🎙️ End–Cloud AI Agent Service · Function Calling + RAG + 端云协同
-
 生产级 AI Agent 语音助手：手写工具调用编排 + 三层记忆 + RAG + Prompt 工程，并与 ESP32 物联网设备端云协同集成。
-
-Function Calling  RAG  异步 (5 并发 3.8×)  限流 / 重试 / 超时 / 背压  可观测 p50·p95  LLM-as-a-Judge  FastAPI  Docker / CI
+Function Calling RAG 异步 (5 并发 3.8×) 限流 / 重试 / 超时 / 背压 可观测 p50·p95 LLM-as-a-Judge FastAPI Docker / CI
 
 ### 🛠️ Tech Stack
 
