@@ -5,13 +5,19 @@
 ---
 
 🤖 主攻 **AI Agent · 多智能体 · Agentic RAG** — Function Calling 工具编排 · 手写 ReAct · 多 Agent 协作 · 检索增强 + 双层防幻觉
+
 🌱 深入 **LangChain / LangGraph · LlamaIndex · RAG 检索优化 · LLM 工程化 (LLMOps)** — 评估 (LLM-as-a-Judge) · 可观测 (p50/p95) · 限流 / 重试 / 超时 / 背压 · Docker / K8s
+
 🔩 **软硬件全栈,上能 LLM、下能裸机** — 手写 **RISC-V 指令集模拟器 · Cortex-M 抢占式 RTOS 内核 · STM32 裸寄存器驱动**（见下方 Systems & Embedded）
+
 🔗 **端云协同** — 用 **ESP32** 把 AI Agent 接到物理设备
+
 💬 关于 **AI Agent / RAG / LLM 应用 / Python / 嵌入式 C** 的问题都可以问我
+
 📫 联系我：GitHub Issues 或主页邮箱
 
 ---
+
 
 ### 🚀 Featured Projects · AI Agent / LLM
 
